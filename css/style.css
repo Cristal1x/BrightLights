@@ -62,7 +62,7 @@ img {
 }
 
 .header-container {
-  max-width: 910px;
+  width: 910px;
   display: flex;
   justify-content: space-around;
 }
